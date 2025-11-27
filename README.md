@@ -117,5 +117,10 @@ I'm always happy to discuss trade-offs, architecture decisions, and implementati
 
 
 ---
+<h2 align="">LET'S PLAY !!! </h2>
 
-<img src="https://raw.githubusercontent.com/CodeSavesMe/CodeSavesMe/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeSavesMe/CodeSavesMe/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeSavesMe/CodeSavesMe/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CodeSavesMe/CodeSavesMe/output/pacman-contribution-graph.svg">
+</picture>

@@ -1,3 +1,5 @@
+
+<!-- -- BANNER SECTION -->
 <p align="center">
   <img src="github-header-banner.png" alt="Header Banner" style="width: 100%; max-width: 1000px; height: auto;">
 </p>
@@ -9,6 +11,7 @@
 
 ---
 
+<!-- -- ABOUT ME SECTION -->
 <h2 align="left">About me</h2>
 
 <p align="left">
@@ -18,44 +21,65 @@
 </p>
 
 ---
+<!-- -- TOOLBOX SECTIONS -->
+<div align="center" style="margin:20px 0 28px; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace;">
 
-<h3 align="left">Toolbox</h3>
+  <!-- HEADER / TITLE -->
+  <div style="transform:rotate(-3deg); margin-bottom:8px;">
+    <div style="height:6px; width:120px; border-radius:999px; background:rgba(255,255,255,0.16); transform:rotate(-6deg); margin:0 auto 4px auto;"></div>
+        <h2 style="margin:0; font-size:26px; font-weight:900; letter-spacing:6px; padding:6px 16px; color:#fbe9ff; text-shadow:0 0 8px #f834ffff, 0 0 18px #2ad7ff; border:2px dashed rgba(243, 45, 45, 0.95); border-radius:14px; background:rgba(12, 0, 26, 0.1); display:inline-block;">
+  T&nbsp;O&nbsp;O&nbsp;L&nbsp;B&nbsp;O&nbsp;X
+</h2>
 
-<div align="center">
+<div style="height:6px; width:160px; border-radius:999px; background:rgba(0,255,255,0.26); transform:rotate(5deg); margin:4px auto 0 auto;"></div>
 
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=bash,py,java,linux" height="30" alt="Languages" />
+  </div>
+  <br>
+  <!-- SMALL CAPTION -->
+  <div style="font-size:16px; color:#9be7ff; opacity:0.85; text-align:center; transform:rotate(1deg); margin-bottom:10px;font-weight:bold;">
+    <span>// stack: data · backend · devops · streaming</span>
+  </div>
+  <br>
+  <!-- LANGUAGES -->
+  <p style="transform:rotate(2deg); margin:8px 0;">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" style="height:34px; margin:0 4px; transform:rotate(-8deg); filter:drop-shadow(0 0 6px #00eaff);" />
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" style="height:32px; margin:0 4px; transform:rotate(5deg); filter:drop-shadow(0 0 8px #ff00f7);" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" style="height:36px; margin:0 4px; transform:rotate(4deg); filter:drop-shadow(0 0 6px #00b7ff);" />
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" style="height:30px; margin:0 4px; transform:rotate(-4deg); filter:drop-shadow(0 0 8px #ff0095);" />
+  </p>
 
-  <br/>
+  <!-- BACKEND -->
+  <p style="transform:rotate(-2deg); margin:6px 0;">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" alt="Spring Boot" style="height:28px; margin:0 4px; transform:rotate(4deg); box-shadow:0 0 10px #39ff14;" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI" style="height:28px; margin:0 4px; transform:rotate(-6deg); box-shadow:0 0 10px #00fff2;" />
+  </p>
 
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="22" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="22" />
+  <!-- DATABASES -->
+  <p style="transform:rotate(2deg); margin:6px 0;">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" style="height:26px; margin:0 4px; transform:rotate(-5deg); box-shadow:0 0 10px #4d8cff;" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" style="height:28px; margin:0 4px; transform:rotate(7deg); box-shadow:0 0 10px #0aff76;" />
+  </p>
 
-  <br/>
+  <!-- DATA ENGINEERING -->
+  <p style="transform:rotate(-3deg); margin:6px 0;">
+    <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge" alt="Kafka" style="height:24px; margin:0 4px; transform:rotate(5deg); box-shadow:0 0 10px #ffffff;" />
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" style="height:34px; margin:0 4px; transform:rotate(-6deg); filter:drop-shadow(0 0 10px #ff8f00);" />
+  </p>
 
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="22" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="22" />
-
-  <br/>
-
-  <!-- Data Engineering -->
-  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge" height="22" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" />
-
-  <br/>
-
-  <!-- DevOps -->
-  <img src="https://skillicons.dev/icons?i=git,github" height="30" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="22" />
-  <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white&style=for-the-badge" height="22" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=black&style=for-the-badge" height="22" />
+  <!-- DEVOPS -->
+  <p style="transform:rotate(2deg); margin:6px 0;">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" style="height:30px; margin:0 4px; transform:rotate(-8deg); filter:drop-shadow(0 0 8px #ff4f4f);" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="height:34px; margin:0 4px; transform:rotate(6deg); filter:drop-shadow(0 0 10px #9d00ff);" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" style="height:26px; margin:0 4px; transform:rotate(-6deg); box-shadow:0 0 12px #00b3ff;" />
+    <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white&style=for-the-badge" alt="CircleCI" style="height:22px; margin:0 4px; transform:rotate(5deg); box-shadow:0 0 10px #ffffff;" />
+    <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=black&style=for-the-badge" alt="Grafana" style="height:28px; margin:0 4px; transform:rotate(-7deg); box-shadow:0 0 12px #ff7a00;" />
+  </p>
 
 </div>
 
 ---
 
+<!-- -- WHAT I DO SECTION -->
 <h2 align="left">What I do</h2>
 
 <ul align="left">
@@ -76,6 +100,7 @@
 
 ---
 
+<!-- -- GITHUB STATS -->
 <h2 align="left">GitHub Stats</h2>
 
 <p align="center">
@@ -85,6 +110,7 @@
 
 ---
 
+<!-- -- FEATURED WORK SECTION -->
 <h2 align="left">Featured work</h2>
 
 <p align="left">
@@ -95,6 +121,7 @@ I'm always happy to discuss trade-offs, architecture decisions, and implementati
 
 ---
 
+<!-- -- GET IN TOUCH SECTION -->
 <h2 align="left">Get in touch</h2>
 
 <p align="left">
@@ -111,6 +138,7 @@ I'm always happy to discuss trade-offs, architecture decisions, and implementati
 
 ---
 
+<!-- LET'S PLAY !!! SECTION -->
 <h2 align="">LET'S PLAY !!! </h2>
 
 <picture>

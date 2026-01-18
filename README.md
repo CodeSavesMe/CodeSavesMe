@@ -135,14 +135,3 @@ I'm always happy to discuss trade-offs, architecture decisions, and implementati
     <img src="https://img.shields.io/badge/LinkedIn--akbar-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-
----
-
-<!-- LET'S PLAY !!! SECTION -->
-<h2 align="">LET'S PLAY !!! </h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeSavesMe/CodeSavesMe/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeSavesMe/CodeSavesMe/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CodeSavesMe/CodeSavesMe/output/pacman-contribution-graph.svg">
-</picture>
